@@ -3,7 +3,7 @@
 ### First and Last Name: Anastasia Ampa
 ### University Registration Number: dpsd19003
 ### GitHub Personal Profile: https://github.com/AnastasiaAmp
-### Digital & Serious Games Personal Repository: https://github.com/AnastasiaAmp
+### Digital & Serious Games Personal Repository: https://anastasiaamp.github.io/Role-Playing-Game/
 
 # Introduction
 Santa
