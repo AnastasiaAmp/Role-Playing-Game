@@ -25,6 +25,7 @@ Santa
 και για damage zone χρησιμοποίησα μια φωιά![58a1e021e33a543010fac278](https://user-images.githubusercontent.com/100956226/207133621-00435eea-7642-4709-ae88-a909b86f2b9c.png)
 
 Για εχθρό μου διάλεξα να έχω τον Pumkin άνθρωπο 
+
 ![Idle (10)](https://user-images.githubusercontent.com/100956226/207134703-4d0349e8-0e47-43ba-86f8-9928a9428fba.png)
 
 Στην συνέχεια έκανα τα animations για τον Αι Βασίλη και για τον Pumkin εχθρό μου και στο τέλος έβαλα τον παίχτη μου να πυροβολάει την φωτια απο τα assets του μαθήματος
