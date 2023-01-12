@@ -47,6 +47,11 @@ Santa
 
 
 # 3rd Deliverable 
+![image](https://user-images.githubusercontent.com/100956226/212124502-f133570a-df98-4aec-8c47-403f99b29ae9.png)
+![image](https://user-images.githubusercontent.com/100956226/212124613-0314afb5-b197-4a85-b015-160be52d98d6.png)
+![image](https://user-images.githubusercontent.com/100956226/212124655-5d8cd3d8-1fe8-4620-90fd-c049689b0951.png)
+![image](https://user-images.githubusercontent.com/100956226/212124708-50883f7b-5ba8-4d51-bea6-d4eb373de781.png)
+
 
 
 # Conclusions
