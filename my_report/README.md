@@ -47,7 +47,7 @@ Santa
 
 
 # 3rd Deliverable 
-Για το τρίτο παραδοτέο 
+Για το τρίτο παραδοτέο ακολούθησα το tutorial και πρόσθεσα particles στον εχθρό μου, έκανα το head-up-display για την ζωή του παίκτη μου, πρόσθεσα το διάλογο που θα κάνει ο παίκτης μου με την γατούλα. Επίσης πρόσθεσα μουσική στο παιχνίδι μου και δημιούργησα ένα menu στο οποίο όταν πατάει ο χρήστης το start θα ξεκινάει το παιχνίδι.
 ![image](https://user-images.githubusercontent.com/100956226/212124502-f133570a-df98-4aec-8c47-403f99b29ae9.png)
 ![image](https://user-images.githubusercontent.com/100956226/212124613-0314afb5-b197-4a85-b015-160be52d98d6.png)
 ![image](https://user-images.githubusercontent.com/100956226/212124655-5d8cd3d8-1fe8-4620-90fd-c049689b0951.png)
