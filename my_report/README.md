@@ -48,12 +48,31 @@ Santa
 
 # 3rd Deliverable 
 Για το τρίτο παραδοτέο ακολούθησα το tutorial και πρόσθεσα particles στον εχθρό μου, έκανα το head-up-display για την ζωή του παίκτη μου, πρόσθεσα το διάλογο που θα κάνει ο παίκτης μου με την γατούλα. Επίσης πρόσθεσα μουσική στο παιχνίδι μου και δημιούργησα ένα menu στο οποίο όταν πατάει ο χρήστης το start θα ξεκινάει το παιχνίδι.
+Δυστυχώς όταν έβαλα το head-up-dispay στο παιχνίδι μου ο παικτης δεν μπορούσε να μαζεψει ζωές, όταν επεφτε πάνω στο damage zone έχανε όλες της ζωές του και δεν μπορούσε να πυροβολίσει. Ξανα εφτιαξα τον κωδικα αλλα δεν λειτούργησε, με βοήθησαν και οι συμφοιτητές μου και ελεγξαν τον κωδικά μου, ήταν ίδιος με τον δικό τους. Τέλος όταν έκανα το menu στον κώδικα για να ανόιγει η πίστα επειδή το unity δεν με άφησε να επιλέξω ως σκηνη 0 το menu  στο κώδικα που βρήκα αντι για +1 έβαλα -1
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class Menu : MonoBehaviour
+{
+   
+   
+     public void PlayGame()
+     {
+           SceneManager.LoadScene( SceneManager.GetActiveScene().buildIndex - 1 );
+           
+     }
+       
+       
+     
+}
 ![image](https://user-images.githubusercontent.com/100956226/212124502-f133570a-df98-4aec-8c47-403f99b29ae9.png)
 ![image](https://user-images.githubusercontent.com/100956226/212124613-0314afb5-b197-4a85-b015-160be52d98d6.png)
 ![image](https://user-images.githubusercontent.com/100956226/212124655-5d8cd3d8-1fe8-4620-90fd-c049689b0951.png)
 ![image](https://user-images.githubusercontent.com/100956226/212124708-50883f7b-5ba8-4d51-bea6-d4eb373de781.png)
-![image](https://user-images.githubusercontent.com/100956226/212150226-d3fb58bc-a5bc-4d0a-b128-04162c1bad70.png)
-![image](https://user-images.githubusercontent.com/100956226/212150809-51ec402c-c5dd-483b-ba06-1f4aa289b1b3.png)
+
 
 
 
